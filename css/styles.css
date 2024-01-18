@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+}
+
+h1{
+    font-size: 70px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+
+}
+
+h3{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+.parent {
+    display: flex;
+    padding-left: 100px;
+}
+
+.fas{
+    color:white;
+}
+
+.notes {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.todo {
+    margin-right: 10%;
+    margin-top: 10%;
+
+}
+
+.calendar {
+    margin-right: 10%;
+    margin-top: 10%;
+
+}
+
+.timer {
+    margin-right: 10%;
+    margin-top: 10%;
+
+}
+
+i:hover{
+    color: gray;
+}

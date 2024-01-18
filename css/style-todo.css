@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+}
+
+.container {
+    max-width: 400px;
+}
+input[type=text],
+input[type=text]:focus {
+  color: black;
+  border: none;
+  background: rgba(0,0,0,0.2);
+  max-width: 400px;
+}
+.todos li {
+    background: black;
+}
+
+.delete{
+    cursor: pointer;
+}
+
+.bg-custom{
+    background: gray;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.fa-home{
+  margin-top: 1%;
+  margin-left: 1%;
+  color: white;
+  }
